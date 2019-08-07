@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header>
-       <h1>Hello</h1>
+       <h1>FormKit Form</h1>
       </header>
       <>
       <NewUserForm />
